@@ -1,3 +1,2 @@
 "text_file" updated from second branch
-i am addin it at 1.06pm
-i am filling hungry
+i am doin git command practice
